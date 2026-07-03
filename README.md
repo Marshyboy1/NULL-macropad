@@ -1,7 +1,13 @@
 # NULL-macropad
 The hackpad
-![null_test](https://imgur.com/a/vtVtqLP)
+![null_test](https://imgur.com/a/NHJhLgD)
+            (https://imgur.com/a/vtVtqLP)
 This project was quite fun to build.
+
+https://imgur.com/a/R8h901c
+https://imgur.com/a/1gsq9Mo
+https://imgur.com/a/ZPXxANf
+
 
 The NULL (pad) is a 4key macropad that has a rotary encoder, an oled display and can be fully customized based on your preferences.
 
