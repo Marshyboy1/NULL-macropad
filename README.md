@@ -19,7 +19,10 @@ The NULL (pad) is a 4key macropad that has a rotary encoder, an oled display and
 
 BOM:
 |--> seeed studio rp2040-->https://tinyurl.com/28scsj78
+
 |--> mx style switches--> Your choosing
+
 |--> EC11 Rotary Encoder-->https://tinyurl.com/mff2axar
+
 |--> 0.91 inch oled display--> Your choosing
 
