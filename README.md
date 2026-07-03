@@ -10,6 +10,9 @@ PCB Look: https://imgur.com/a/1gsq9Mo
 ## PCB Design
 PCB Design: https://imgur.com/a/ZPXxANf
 
+## Firmware
+This macropad uses QMK Firmaware
+
 ## Description
 The NULL (pad) is a 4key macropad that has a rotary encoder, an oled display and can be fully customized based on your preferences.
 
