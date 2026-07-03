@@ -5,7 +5,9 @@ The hackpad
 This project was quite fun to build.
 
 Schematic: https://imgur.com/a/R8h901c
+
 PCB Look: https://imgur.com/a/1gsq9Mo
+
 PCB Design: https://imgur.com/a/ZPXxANf
 
 
