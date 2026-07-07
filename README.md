@@ -1,6 +1,6 @@
 # NULL-macropad
 The hackpad
-![The whole project](https://imgur.com/a/NHJhLgD)
+![The whole project](https://imgur.com/a/a188QOo)
 
 This project was quite fun to build.
 ## Schematic
