@@ -4,11 +4,11 @@
 
 This project was quite fun to build.
 ## Schematic
-![Schematic](https://i.imgur.com/a/R8h901c)
+![Schematic](https://i.imgur.com/KAyAQth.png)
 ## PCB Look
-![PCB Look](https://i.imgur.com/a/1gsq9Mo)
+![PCB Look](https://i.imgur.com/L5IOkF3.png)
 ## PCB Design
-![PCB Design](https://i.imgur.com/a/ZPXxANf)
+![PCB Design](https://i.imgur.com/G4Hq0Mt.png)
 
 ## Firmware
 This macropad uses QMK Firmaware
