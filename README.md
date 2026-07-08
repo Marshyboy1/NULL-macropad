@@ -1,14 +1,14 @@
 ## NULL-macropad
 ## The hackpad
-![The-whole-project](https://i.imgur.com/ELReS5l.png)
+![The-whole-project](https://i.imgur.com/smxpmjM.png)
 
 This project was quite fun to build.
 ## Schematic
 ![Schematic](https://i.imgur.com/KAyAQth.png)
 ## PCB Look
-![PCB Look](https://i.imgur.com/MrwMEww.png)
+![PCB Look](https://i.imgur.com/AGgp225.png)
 ## PCB Design
-![PCB Design](https://i.imgur.com/pa5LztT.png)
+![PCB Design](https://i.imgur.com/MZWd1Xc.png)
 
 ## Firmware
 This macropad uses QMK Firmaware
