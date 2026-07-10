@@ -33,3 +33,4 @@ The NULL (pad) is a 4key macropad that has a rotary encoder, an oled display and
 
 |--> 1x Case (1x 3d printed part)
 
+|--> 4x M3x16mm screws(depends on how big your case is)
