@@ -9,6 +9,7 @@ This project was quite fun to build.
 ![PCB Look](https://i.imgur.com/AGgp225.png)
 ## PCB Design
 ![PCB Design](https://i.imgur.com/MZWd1Xc.png)
+![PCB Design with silkscreen](https://i.imgur.com/HRaQOKm.png)
 
 ## Firmware
 This macropad uses QMK Firmaware
