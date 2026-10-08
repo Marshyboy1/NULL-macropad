@@ -3,6 +3,8 @@
 ![The-whole-project](https://i.imgur.com/EAyIyLz.png)
 
 This project was quite fun to build.
+## Disclaimer
+At the time of build I realised I have forgotten to put tolerances in the case therefore the PCB might have a really tight fit or won't fit at all. Please wait till I'm able to fix it or you can try fixing the file for yourself in cad.
 ## Schematic
 ![Schematic](https://i.imgur.com/KAyAQth.png)
 ## PCB Look
